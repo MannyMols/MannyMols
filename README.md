@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Emmanuel (MannyMols) 👋
 
-<!--
-**MannyMols/MannyMols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 MSc Internet of Things graduate from Ulster University (Distinction, 2024)  
+💼 Aspiring Data Analyst & Cybersecurity Analyst based in Belfast, Northern Ireland  
+🔭 Currently building data analytics and machine learning projects  
+🌱 Learning: Agentic AI, CompTIA Security+, Cloud platforms (GCP, BigQuery)  
+📫 Open to data analyst, operations analyst, and cybersecurity analyst roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data & Analytics:**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=flat&logoColor=white)
+
+**Machine Learning:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Other Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [ML_Approaches](https://github.com/MannyMols/ML_Approaches) | MSc Dissertation — Machine learning approaches for IoT data | Python, Jupyter |
+| [Hadoop](https://github.com/MannyMols/Hadoop) | Big Data processing and analysis using Hadoop | Python, Jupyter |
+
+---
+
+## 📊 GitHub Stats
+
+![MannyMols's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MannyMols&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mologe)
+
+---
+
+*"Turning data into decisions."*
