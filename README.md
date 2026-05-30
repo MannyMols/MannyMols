@@ -38,6 +38,7 @@
 |--------|-------------|-------|
 | [ML_Approaches](https://github.com/MannyMols/ML_Approaches) | MSc Dissertation — Machine learning approaches for IoT data | Python, Jupyter |
 | [Hadoop](https://github.com/MannyMols/Hadoop) | Big Data processing and analysis using Hadoop | Python, Jupyter |
+| [Recruitment-analytics-and-ML-project-](https://github.com/MannyMols/Recruitment-analytics-and-ML-project-) | End-to-end ML project — candidate placement prediction & satisfaction regression | Python, Scikit-learn, Pandas, Jupyter |
 
 ---
 
