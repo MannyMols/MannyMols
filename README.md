@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 MSc Internet of Things graduate from Ulster University (Distinction, 2024)  
-💼 Aspiring Data Analyst & Cybersecurity Analyst based in Belfast, Northern Ireland  
+💼 Data Analyst & Cybersecurity Analyst based in Belfast, Northern Ireland  
 🔭 Currently building data analytics and machine learning projects  
 🌱 Learning: Agentic AI, CompTIA Security+, Cloud platforms (GCP, BigQuery)  
 📫 Open to data analyst, operations analyst, and cybersecurity analyst roles  
