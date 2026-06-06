@@ -5,7 +5,7 @@
 💼 Data Analyst & Cybersecurity Analyst based in Belfast, Northern Ireland  
 🔭 Currently building data analytics and machine learning projects  
 🌱 Learning: Agentic AI, CompTIA Security+, Cloud platforms (GCP, BigQuery)  
-📫 Open to data analyst, operations analyst, and cybersecurity analyst roles  
+📫 Open to data analyst/science, operations analyst, ML analyst and cybersecurity analyst roles  
 
 ---
 
