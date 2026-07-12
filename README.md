@@ -37,7 +37,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [ML_Approaches](https://github.com/MannyMols/ML_Approaches) | MSc Dissertation — Machine learning approaches for IoT data | Python, Jupyter |
-| [Hadoop](https://github.com/MannyMols/Hadoop) | Big Data processing and analysis using Hadoop | Python, Jupyter |
+| [Games_analytics](https://github.com/MannyMols/Games_analytics) | End-to-end games analytics pipeline: EDA, machine learning models, and interactive dashboard | Python, Pandas, Scikit-learn, Jupyter |
 | [Recruitment-analytics-and-ML-project-](https://github.com/MannyMols/Recruitment-analytics-and-ML-project-) | End-to-end ML project — candidate placement prediction & satisfaction regression | Python, Scikit-learn, Pandas, Jupyter |
 
 ---
